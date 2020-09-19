@@ -1,12 +1,12 @@
-# payments
+# Payments
 
 Simple test payments service
 
 ## Install
 
-`go get github.com/fedoseev-vitaliy/payments`
+Clone git repo locally and run `make start` to start docker container
 
-Or clone git repo locally
+Or `go get github.com/fedoseev-vitaliy/payments` and run bin `payments server` or `$GOPATH/bin/paymenys server`
 
 ## Project filesystem structure
 
