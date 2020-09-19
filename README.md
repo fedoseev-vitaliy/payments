@@ -4,7 +4,7 @@ Simple test payments service
 
 ## Install
 
-`go get https://github.com/fedoseev-vitaliy/payments`
+`go get github.com/fedoseev-vitaliy/payments`
 
 Or clone git repo locally
 
