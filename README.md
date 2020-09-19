@@ -15,14 +15,14 @@ payments
 ├── cmd                          # commands
 │   ├── server                   # server command
 ├── internal                     # project internal sources
-│   ├── controller               # controller tp handle bussiness logic
-│   ├── mocks                    # generated mocks with mockery (https://github.com/mockery/mockery)
+│   ├── controller               # controller to handle bussiness logic
+│   ├── mocks                    # generated mocks (https://github.com/mockery/mockery)
 │   ├── provider                 # providers clients
 │   │   ├── apay                 # ApplePay client
 │   │   └── gpay                 # GooglePay client
 │   ├── server                   # server implementation
 │   └── utils                    # utils (e.g. http client)
-├── tools                        # indirect import for extenal tools like golangci-lint
+├── tools                        # indirect import for extenal tools like golangci-lint, mockery
 └── vendor                       # vednor folder
 ```
 
